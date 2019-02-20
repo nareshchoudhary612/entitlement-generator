@@ -10,7 +10,7 @@ public interface DiaryDAO extends CrudRepository<DiaryEntity, Long> {
 	
 	List<DiaryEntity> findByStatus(String status);
 	
-	List<DiaryEntity> findByDiaryNo(String diaNo);
+	List<DiaryEntity> findByDiaryNo(int diaNo);
 	
 
 }
