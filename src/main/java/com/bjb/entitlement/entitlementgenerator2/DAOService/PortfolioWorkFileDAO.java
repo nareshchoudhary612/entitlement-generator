@@ -1,3 +1,6 @@
+/***************************************************************************************
+ * Data access layer for Portfolio Work file
+ **************************************************************************************/
 package com.bjb.entitlement.entitlementgenerator2.DAOService;
 
 import java.util.List;

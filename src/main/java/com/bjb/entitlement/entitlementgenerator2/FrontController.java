@@ -1,3 +1,7 @@
+/***************************************************************************************
+ * Test controller 
+ **************************************************************************************/
+
 package com.bjb.entitlement.entitlementgenerator2;
 
 import org.springframework.web.bind.annotation.RequestMapping;

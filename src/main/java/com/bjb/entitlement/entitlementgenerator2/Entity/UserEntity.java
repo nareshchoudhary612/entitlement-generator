@@ -1,3 +1,6 @@
+/***************************************************************************************
+ * Entity class for table User
+ **************************************************************************************/
 package com.bjb.entitlement.entitlementgenerator2.Entity;
 
 import javax.persistence.Entity;
